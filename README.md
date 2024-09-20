@@ -3,6 +3,7 @@
 This is a simple project just to check how the validations works.
 You need to download the pictures from another repo.
 
+Testing File: [SWDemoTests](SWDemoTests/SWDemoTests.swift)
 
 **Testing output**
 
