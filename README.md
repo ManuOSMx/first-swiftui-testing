@@ -1,7 +1,8 @@
 # Creating SwiftUI App with testing
 
-This is a simple project just to check how the validations works.
-You need to download the pictures from another repo.
+This is a simple project just to check how the validations works on iOS 18, iPadOS 18, MacOS 15, WatchOS 11, VisionOS 2.
+
+You need to **download** the pictures from **another repo**.
 
 Testing File: [SWDemoTests](SWDemoTests/SWDemoTests.swift)
 
