@@ -4,7 +4,7 @@ This is a simple project just to check how the validations works on iOS 18, iPad
 
 You need to **download** the pictures from **another repo**.
 
-Testing File: [SWDemoTests](SWDemoTests/SWDemoTests.swift)
+**Testing File**: [SWDemoTests](SWDemoTests/SWDemoTests.swift)
 
 **Testing output**
 
